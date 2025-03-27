@@ -37,7 +37,8 @@ Time-based challenges to simulate real-world pressure.
 Performance badges & leaderboard to encourage improvement.
 
 ## Proposed Solution / Architecture Diagram
-![image](https://github.com/user-attachments/assets/e9b7a96c-03d0-48bc-a1a5-44500255874f)
+![image](https://github.com/user-attachments/assets/a59899ce-5263-4f1c-86c4-d1448ee1366b)
+
 
 
 ## Use Cases
